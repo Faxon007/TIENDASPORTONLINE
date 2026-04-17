@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.1030.0",
+    "aws-sdk": "^2.1693.0",
+    "dynamodb-local": "^0.0.38",
+    "jsonwebtoken": "^9.0.3",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "serverless": "^4.34.0",
+    "serverless-offline": "^13.9.0"
+  },
+  "type": "module"
+}
